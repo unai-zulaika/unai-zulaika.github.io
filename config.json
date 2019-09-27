@@ -3,9 +3,16 @@
   "username": "unai-zulaika",
   "name": "Unai Zulaika",
   "userimg": "https://avatars0.githubusercontent.com/u/31987236?v=4",
-  "sort": "created",
+  "sort": "star",
   "order": "asc",
   "includeFork": false,
-  "theme": "light.css"
+  "theme": "dark.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
